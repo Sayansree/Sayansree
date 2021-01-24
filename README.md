@@ -22,7 +22,7 @@ Follow me Here
 reach to me here
 
 [![Linkedin](https://img.shields.io/badge/-SayansreeParia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayansreeparia)
-[![Gmail](https://img.shields.io/badge/-sayansreeparia@gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sayansreeparia@gmail.com)
+[![Gmail](https://img.shields.io/badge/-sayansreeparia@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sayansreeparia@gmail.com)
 
 
 ### Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
