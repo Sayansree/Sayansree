@@ -2,7 +2,7 @@
 
 ### Hello, This is [Sayansree Paria](https://sayansreeparia.co)
 
-Social Media Handles
+Follow me Here
 <a href="https://www.linkedin.com/in/sayansreeparia/">
   <img align="left" alt="Sayansree's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
