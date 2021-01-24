@@ -1,5 +1,7 @@
 <img align="left" alt="Sayansree" width="220px" src="https://raw.githubusercontent.com/Sayansree/sayansreeparia/main/sayansree.jpeg" />
 ### Hello, This is [Sayansree](https://sayansreeparia.co)
+<br/>
+<br/>
 <a href="https://www.linkedin.com/in/sayansreeparia/">
   <img align="left" alt="Sayansree's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
