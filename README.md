@@ -24,6 +24,7 @@ reach to me here
 [![Linkedin](https://img.shields.io/badge/-SayansreeParia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayansreeparia)
 [![Gmail](https://img.shields.io/badge/-sayansreeparia@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sayansreeparia@gmail.com)
 
+<img src="https://github.com/Sayansree/Sayansree/blob/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 ### Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -68,3 +69,5 @@ reach to me here
 [![Spectre & Meltdown](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000?)](https://github.com/adamalston/Meltdown-Spectre)
 [![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](https://github.com/adamalston/Network-Tools)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayansree&theme=onedark)](https://github.com/Sayansree/github-readme-stats)
+<br>
