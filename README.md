@@ -6,7 +6,9 @@
 <a href="https://www.instagram.com/sayansree/">
   <img align="left" alt="Sayansree's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-[![Header](https://github.com/Sayansree/sayansreeparia/blob/main/sayansree.jpeg)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+<a href="https://www.twitter.com/user/SayansreeParia/">
+  <img align="left" alt="Sayansree's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 ### Languages
 
