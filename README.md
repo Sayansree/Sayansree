@@ -1,7 +1,7 @@
 <img align="left" alt="Sayansree" width="220px" src="https://raw.githubusercontent.com/Sayansree/sayansreeparia/main/sayansree.jpeg" />
 
 ### Hello, This is [Sayansree Paria](https://sayansreeparia.co)
-<br/>
+
 <a href="https://www.linkedin.com/in/sayansreeparia/">
   <img align="left" alt="Sayansree's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,6 +12,7 @@
   <img align="left" alt="Sayansree's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
+<br/>
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
