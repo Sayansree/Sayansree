@@ -1,22 +1,24 @@
 <img align="left" alt="Sayansree" width="220px" src="https://raw.githubusercontent.com/Sayansree/sayansreeparia/main/sayansree.jpeg" />
+ 
+### Hello, This is [Sayansree Paria](https://sayansreeparia.co)       
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge) 
 
-### Hello, This is [Sayansree Paria](https://sayansreeparia.co)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge)
-<br/><br/>
-Follow me Here
+<br/>
+<div>
+Follow me on Social Media
 <a href="https://www.linkedin.com/in/sayansreeparia/">
-  <img align="left" alt="Sayansree's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sayansree's LinkdeIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/sayansree/">
-  <img align="left" alt="Sayansree's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sayansree's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.twitter.com/SayansreeParia/">
-  <img align="left" alt="Sayansree's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Sayansree's Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/pariasayansree/">
-  <img align="left" alt="Sayansree's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="center" alt="Sayansree's Facebook" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+  </div>
 <br/>
 
 reach to me here
@@ -40,7 +42,7 @@ reach to me here
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)#
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -69,5 +71,5 @@ reach to me here
 [![Spectre & Meltdown](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000?)](https://github.com/adamalston/Meltdown-Spectre)
 [![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](https://github.com/adamalston/Network-Tools)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayansree&theme=onedark)](https://github.com/Sayansree/github-readme-stats)
-<br>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayansree&theme=onedark)](https://github.com/Sayansree/github-readme-stats)
+<br> -->
