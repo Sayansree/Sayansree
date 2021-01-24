@@ -19,7 +19,12 @@ Follow me Here
 </a>
 <br/>
 
-### Languages
+reach to me here
+[![Linkedin](https://img.shields.io/badge/-Sayansree Paria-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayansreeparia)
+[![Gmail](https://img.shields.io/badge/-sayansreeparia@gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sayansreeparia@gmail.com)
+
+
+### Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
