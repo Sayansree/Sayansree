@@ -20,7 +20,8 @@ Follow me Here
 <br/>
 
 reach to me here
-[![Linkedin](https://img.shields.io/badge/-Sayansree Paria-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayansreeparia)
+
+[![Linkedin](https://img.shields.io/badge/-SayansreeParia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayansreeparia)
 [![Gmail](https://img.shields.io/badge/-sayansreeparia@gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sayansreeparia@gmail.com)
 
 
