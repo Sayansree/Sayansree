@@ -32,20 +32,23 @@ Reach out to me through
 
 <h1> Who am I ? </h1>  
 I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NIT Rourkela.
--  Interested in Software as well as Hardware Working
+
+-  Always curious about how Software as well as Hardware works around us
+-  Robotics and Rocket Science Facinates me 
+-  c
 
 <br/>
 <h2> Currently, I am contributing in </h2>  
 
--  [NITRRSSG](https://nitrrssg.org) makes bots that play soccer, Participates at [RoboSoccer](https://robosoccer.io) 
+-  <img width="20px" src="https://github.com/NITR-Robosoccer-Students-Group/NITRRSSG-web/blob/master/media/logo/favicon-96x96.png" alt="logo"> [NITRRSSG](https://nitrrssg.org) makes bots that play soccer, Participates at [RoboSoccer](https://robosoccer.io) 
    -  SSL Technical Team Lead
    
--  [Team Tiburon](https://auvnitrkl.github.io/) makes AUV (Autonomous Underwater Vehicles), Participates at [Robosub](https://robosub.org/) 
+- <img width="20px" src="https://github.com/auvnitrkl/auvnitrkl.github.io/blob/master/images/logo.png" alt="logo">  [Team Tiburon](https://auvnitrkl.github.io/) makes AUV (Autonomous Underwater Vehicles), Participates at [Robosub](https://robosub.org/) 
    -  Acoustics subsystem lead
    -  Software subsystem member
    -  Electronics subsystem member
 
-- [Cyborg](https://cyborg.nitrkl.ac.in) makes robotics 
+- <img width="20px" src="https://github.com/auvnitrkl/auvnitrkl.github.io/blob/master/images/logo.png" alt="logo"> [Cyborg](https://cyborg.nitrkl.ac.in) makes robotics 
    -  Software subsustem member
    -  Electronics subsystem member
    
