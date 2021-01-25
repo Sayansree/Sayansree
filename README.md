@@ -30,12 +30,13 @@ Reach out to me through
 [![Linkedin](https://img.shields.io/badge/-SayansreeParia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayansreeparia)
 [![Gmail](https://img.shields.io/badge/-sayansreeparia@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sayansreeparia@gmail.com)
 
+<h1> Who am I ? </h1>  
 I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NIT Rourkela.
 <br/>
-<h1> Currently, I am contributing in </h1>  
+<h3> Currently, I am contributing in </h3>  
 
 -  [NITRRSSG](https://nitrrssg.org) makes bots that play soccer, Participates at [RoboSoccer](https://robosoccer.io) 
-   -  SSL team Lead
+   -  SSL Technical Team Lead
    
 -  [Team Tiburon](https://auvnitrkl.github.io/) makes AUV (Autonomous Underwater Vehicles), Participates at [Robosub](https://robosub.org/) 
    -  Acoustics subsystem lead
