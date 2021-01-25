@@ -23,7 +23,7 @@ Follow me on Social Media
 <br/>
 <br/>
 <br/>
-reach to me here
+Reach out to me through
 <br/>
 <br/>
 
@@ -32,7 +32,7 @@ reach to me here
 
 I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NIT Rourkela.
 <br/>
-<h1> I am contributing in </h1>  
+<h1> Currently, I am contributing in </h1>  
 
 -  [NITRRSSG](https://nitrrssg.org) makes bots that play soccer, Participates at [RoboSoccer](https://robosoccer.io) 
    -  SSL team Lead
