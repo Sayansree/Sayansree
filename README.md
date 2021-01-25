@@ -30,6 +30,26 @@ reach to me here
 [![Linkedin](https://img.shields.io/badge/-SayansreeParia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayansreeparia)
 [![Gmail](https://img.shields.io/badge/-sayansreeparia@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sayansreeparia@gmail.com)
 
+I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NIT Rourkela.
+<br/>
+-  [NITRRSSG](https://nitrrssg.org) makes bots that play soccer, Participates at [RoboSoccer](https://robosoccer.io) 
+   -  SSL team Lead
+   
+-  [Team Tiburon](https://auvnitrkl.github.io/) makes AUV (Autonomous Underwater Vehicles), Participates at [Robosub](https://robosub.org/) 
+   -  Acoustics subsystem lead
+   -  Software subsystem member
+   -  Electronics subsystem member
+
+- [Cyborg](https://cyborg.nitrkl.ac.in) makes robotics 
+   -  Software subsustem member
+   -  Electronics subsystem member
+   
+- Udaan (Aeromodeling and model Rocketry club)
+   -  Core Technical Team member
+
+- Spawn (competetive coding club)
+   -  Team member
+  
 ### Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/Sayansree?tab=repositories&q=&type=&language=python)
@@ -38,22 +58,25 @@ reach to me here
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML&logoColor=4479A1)
 <!--![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC) -->
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+<!--![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)#
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+-->
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
+<!--
 ### Full Stack Projects
 
 [![My Website](https://img.shields.io/badge/-🧬%20My%20Website-000?)](https://github.com/adamalston/v2)
@@ -72,6 +95,6 @@ reach to me here
 [![SQL Injection](https://img.shields.io/badge/-💉%20SQL%20Injection-000?)](https://github.com/adamalston/SQL-Injection)
 [![Spectre & Meltdown](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000?)](https://github.com/adamalston/Meltdown-Spectre)
 [![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](https://github.com/adamalston/Network-Tools)
-
+-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayansree&theme=onedark)](https://github.com/Sayansree/github-readme-stats)
 <br> -->
