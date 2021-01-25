@@ -1,5 +1,5 @@
 <img align="left" alt="Sayansree" width="200px" src="https://raw.githubusercontent.com/Sayansree/sayansreeparia/main/sayansree.jpeg" />
- <img src="https://github.com/Sayansree/Sayansree/blob/main/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+ <img src="https://github.com/Sayansree/Sayansree/blob/main/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
 
 ### Hello, This is [Sayansree Paria](https://sayansreeparia.co)       
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge) 
@@ -32,6 +32,8 @@ reach to me here
 
 I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NIT Rourkela.
 <br/>
+<h1> I am contributing in </h1>  
+
 -  [NITRRSSG](https://nitrrssg.org) makes bots that play soccer, Participates at [RoboSoccer](https://robosoccer.io) 
    -  SSL team Lead
    
