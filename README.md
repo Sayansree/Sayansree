@@ -3,9 +3,8 @@
 ### Hello, This is [Sayansree Paria](https://sayansreeparia.co)       
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge) 
 
-<br/>
 <div>
-Follow me on Social Media
+Follow me on Social Media<br/>
 <a href="https://www.linkedin.com/in/sayansreeparia/">
   <img align="left" alt="Sayansree's LinkdeIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,14 +12,15 @@ Follow me on Social Media
   <img align="left" alt="Sayansree's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.twitter.com/SayansreeParia/">
-  <img align="center" alt="Sayansree's Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sayansree's Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/pariasayansree/">
-  <img align="center" alt="Sayansree's Facebook" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Sayansree's Facebook" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
   </div>
 <br/>
-
+<br/>
+<br/>
 reach to me here
 
 [![Linkedin](https://img.shields.io/badge/-SayansreeParia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayansreeparia)
