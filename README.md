@@ -2,7 +2,7 @@
  <img src="https://github.com/Sayansree/Sayansree/blob/main/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
 
 ### Hey there, check out my portfolio : [sayansreeparia.co](https://sayansreeparia.co)       
- ![visits](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge) 
+ ![visitor](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge) 
  ![Followers](https://img.shields.io/github/followers/Sayansree?style=plastic)
  ![Stars](https://img.shields.io/github/stars/Sayansree?style=plastic)
 
@@ -39,9 +39,11 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 -  Robotics and Rocket Science Facinates me 
 -  c
 
-<br/>
+
 <h2> Currently, I am contributing in </h2>  
 
+![groups](https://img.shields.io/badge/groups-5-brightgreen)
+![positions](https://img.shields.io/badge/positions-8-brightgreen)
 
 -  <img width="20px" src="https://github.com/NITR-Robosoccer-Students-Group/NITRRSSG-web/blob/master/media/logo/favicon-96x96.png" alt="logo"> [NITRRSSG](https://nitrrssg.org) makes bots that play soccer, Participates at [RoboSoccer](https://robosoccer.io) 
    -  SSL Technical Team Lead
@@ -64,10 +66,10 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 ### Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/Sayansree?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Sayansree?tab=repositories&q=&type=&language=javascript)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/Sayansree?tab=repositories&q=&type=&language=java)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/Sayansree?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/Sayansree?tab=repositories&q=&type=&language=c++)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/Sayansree?tab=repositories&q=&type=&language=java)
+<!--[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Sayansree?tab=repositories&q=&type=&language=javascript)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://github.com/Sayansree?tab=repositories&q=&type=&language=sql)
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML&logoColor=4479A1)](https://github.com/Sayansree?tab=repositories&q=&type=&language=html)
 <!--![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
