@@ -53,11 +53,11 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
    -  Software subsystem member
    -  Electronics subsystem member
 
-- <img width="20px" src="https://github.com/Sayansree/Sayansree/blob/master/img/cyborg.png?raw=true" alt="logo"> [Cyborg](https://cyborg.nitrkl.ac.in) makes robotics 
+- <img width="20px" src="https://github.com/Sayansree/Sayansree/blob/main/img/cyborg.jpeg?raw=true" alt="logo"> [Cyborg](https://cyborg.nitrkl.ac.in) makes robotics 
    -  Software subsustem member
    -  Electronics subsystem member
    
-- <img width="20px" src="https://github.com/Sayansree/Sayansree/blob/master/img/udaan.png?raw=true" alt="logo"> Udaan (Aeromodeling and model Rocketry club)
+- <img width="20px" src="https://github.com/Sayansree/Sayansree/blob/main/img/udaan.jpeg?raw=true" alt="logo"> Udaan (Aeromodeling and model Rocketry club)
    -  Core Technical Team member
 
  
