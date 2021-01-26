@@ -1,5 +1,5 @@
-<img align="left" alt="Sayansree" width="200px" src="https://raw.githubusercontent.com/Sayansree/sayansreeparia/main/sayansree.jpeg" />
- <img src="https://github.com/Sayansree/Sayansree/blob/main/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
+<img align="left" alt="Sayansree" width="200px" src="https://raw.githubusercontent.com/Sayansree/Sayansree/img/main/sayansree.jpeg" />
+ <img src="https://github.com/Sayansree/Sayansree/img/blob/main/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
 
 ### Hey there, check out my portfolio : [sayansreeparia.co](https://sayansreeparia.co)       
  ![visitor](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge) 
