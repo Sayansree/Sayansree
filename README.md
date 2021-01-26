@@ -53,14 +53,15 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
    -  Software subsystem member
    -  Electronics subsystem member
 
-- <img width="20px" src="https://github.com/auvnitrkl/auvnitrkl.github.io/blob/master/images/logo.png" alt="logo"> [Cyborg](https://cyborg.nitrkl.ac.in) makes robotics 
+- <img width="20px" src="https://github.com/Sayansree/Sayansree/blob/master/img/cyborg.png?raw=true" alt="logo"> [Cyborg](https://cyborg.nitrkl.ac.in) makes robotics 
    -  Software subsustem member
    -  Electronics subsystem member
    
-- Udaan (Aeromodeling and model Rocketry club)
+- <img width="20px" src="https://github.com/Sayansree/Sayansree/blob/master/img/udaan.png?raw=true" alt="logo"> Udaan (Aeromodeling and model Rocketry club)
    -  Core Technical Team member
 
-- Spawn (competetive coding club)
+ 
+- <img width="20px" src="https://scontent-bom1-2.xx.fbcdn.net/v/t1.0-1/p148x148/67820371_2431576013568044_5888664840175616000_n.jpg?_nc_cat=100&ccb=2&_nc_sid=1eb0c7&_nc_ohc=WiFU9Q0YIbsAX9ZMDu8&_nc_ht=scontent-bom1-2.xx&tp=6&oh=e5ab2d78121668ebc7dafa8ef7faa3ad&oe=603528AA" alt="logo">Spawn (competetive coding club)
    -  Team member
   
 ### Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
