@@ -120,6 +120,7 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 
 
 <br> 
-<img src="https://github-readme-stats.vercel.app/api?username=Sayansree&show_icons=true&count_private=true&theme=radical ">
+<img src="https://github-readme-stats.vercel.app/api?username=Sayansree&show_icons=true&count_private=true&theme=dark&include_all_commits=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayansree&theme=onedark)](https://github.com/Sayansree/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayansree&theme=onedark)](https://github.com/Sayansree/github-readme-stats)
+-->
