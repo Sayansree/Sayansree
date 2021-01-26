@@ -2,7 +2,9 @@
  <img src="https://github.com/Sayansree/Sayansree/blob/main/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
 
 ### Hey there, check out my portfolio : [sayansreeparia.co](https://sayansreeparia.co)       
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge) 
+ ![visits](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge) 
+ ![Followers](https://img.shields.io/github/followers/Sayansree?style=plastic)
+ ![Stars](https://img.shields.io/github/stars/Sayansree?style=plastic)
 
 <div>
 Follow me on Social Media
@@ -39,6 +41,7 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 
 <br/>
 <h2> Currently, I am contributing in </h2>  
+
 
 -  <img width="20px" src="https://github.com/NITR-Robosoccer-Students-Group/NITRRSSG-web/blob/master/media/logo/favicon-96x96.png" alt="logo"> [NITRRSSG](https://nitrrssg.org) makes bots that play soccer, Participates at [RoboSoccer](https://robosoccer.io) 
    -  SSL Technical Team Lead
@@ -104,5 +107,6 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 [![Spectre & Meltdown](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000?)](https://github.com/adamalston/Meltdown-Spectre)
 [![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](https://github.com/adamalston/Network-Tools)
 -->
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayansree&theme=onedark)](https://github.com/Sayansree/github-readme-stats)
 <br> -->
