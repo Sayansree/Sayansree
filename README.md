@@ -37,7 +37,7 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 
 -  Always curious about how Software as well as Hardware works around us
 -  Robotics and Rocket Science Facinates me 
--  c
+-  Trying to be a part of next evolving technology around me
 
 
 <h2> Currently, I am contributing in </h2>  
@@ -48,7 +48,7 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 -  <img width="20px" src="https://github.com/NITR-Robosoccer-Students-Group/NITRRSSG-web/blob/master/media/logo/favicon-96x96.png" alt="logo"> [NITRRSSG](https://nitrrssg.org) makes bots that play soccer, Participates at [RoboSoccer](https://robosoccer.io) 
    -  SSL Technical Team Lead
    
-- <img width="20px" src="https://github.com/auvnitrkl/auvnitrkl.github.io/blob/master/images/logo.png" alt="logo">  [Team Tiburon](https://auvnitrkl.github.io/) makes AUV (Autonomous Underwater Vehicles), Participates at [Robosub](https://robosub.org/) 
+- <img width="20px" src="https://github.com/auvnitrkl/auvnitrkl.github.io/blob/master/images/logo.png" alt="logo">  [Team Tiburon](https://auvnitrkl.github.io/) makes AUV (Autonomous Underwater Vehicles), Participates at [Robosub](https://robosub.org/) at San Diego, USA and [SAUVC](https://sauvc.org/) at Singapore
    -  Acoustics subsystem lead
    -  Software subsystem member
    -  Electronics subsystem member
