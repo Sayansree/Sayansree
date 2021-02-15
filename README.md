@@ -70,10 +70,10 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/Sayansree?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/Sayansree?tab=repositories&q=&type=&language=c++)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/Sayansree?tab=repositories&q=&type=&language=java)
-<!--[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Sayansree?tab=repositories&q=&type=&language=javascript)
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://github.com/Sayansree?tab=repositories&q=&type=&language=sql)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Sayansree?tab=repositories&q=&type=&language=javascript)
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML&logoColor=4479A1)](https://github.com/Sayansree?tab=repositories&q=&type=&language=html)
 <!--![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://github.com/Sayansree?tab=repositories&q=&type=&language=sql)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC) -->
 
 ### Technologies
@@ -95,8 +95,8 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 ![FPGA](https://img.shields.io/badge/-FPGA-000?)
 ![Teensy](https://img.shields.io/badge/-Teensy-000?)
 ![Raspberrypi](https://img.shields.io/badge/-RaspberryPi-000)
-<!--![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)-->
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+<!--![React](https://img.shields.io/badge/-React-000?&logo=React)-->
 <!--
 ### Full Stack Projects
 
