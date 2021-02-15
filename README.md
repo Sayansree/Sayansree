@@ -88,14 +88,14 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 -->
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![ROS](https://img.shields.io/badge/-ROS-000?&logo=Ros)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
-![Tensorflow](https://img.shields.io/badge/-TensorFlow-000?&logo=Tensorflow)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?logo=OpenCV)
+![Tensorflow](https://img.shields.io/badge/-TensorFlow-000?logo=Tensorflow)
+![Arduino](https://img.shields.io/badge/-Arduino-000?logo=Arduino)
 ![STM](https://img.shields.io/badge/-STM-000?)
 ![FPGA](https://img.shields.io/badge/-FPGA-000?)
 ![Teensy](https://img.shields.io/badge/-Teensy-000?)
-![Raspberrypi](https://img.shields.io/badge/-RaspberryPi-000)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Raspberrypi](https://img.shields.io/badge/-RaspberryPi-000?logo=Raspberry-Pi)
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
 <!--![React](https://img.shields.io/badge/-React-000?&logo=React)-->
 <!--
 ### Full Stack Projects
