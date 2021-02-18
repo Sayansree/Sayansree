@@ -97,6 +97,7 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 ![Teensy](https://img.shields.io/badge/-Teensy-000?)
 ![Raspberrypi](https://img.shields.io/badge/-RaspberryPi-000?logo=Raspberry-Pi)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
+![heroku](https://img.shields.io/badge/-Heroku-000?logo=heroku)
 <!--![React](https://img.shields.io/badge/-React-000?&logo=React)-->
 <!--
 ### Full Stack Projects
