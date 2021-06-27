@@ -121,7 +121,7 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 [![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](https://github.com/adamalston/Network-Tools)
 -->
 
-
+![Sayansree's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sayansree&theme=react-dark&hide_border=true&area=true)
 <br> 
 <img src="https://github-readme-stats.vercel.app/api?username=Sayansree&show_icons=true&count_private=true&theme=dark&include_all_commits=true">
 
