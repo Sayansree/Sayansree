@@ -1,7 +1,7 @@
 <img align="left" alt="Sayansree" width="200px" src="https://github.com/Sayansree/Sayansree/blob/main/img/sayansree.jpeg?raw=true" />
  <img src="https://github.com/Sayansree/Sayansree/blob/main/img/life_balance.gif?raw=true" alt="side Image" align="right" width="300" height="auto" />
 
-### Hey there, check out my portfolio : [sayansreeparia.co](https://sayansreeparia.co)       
+<!-- ### Hey there, check out my portfolio : [sayansreeparia.co](https://sayansreeparia.co)       -->
  ![visitor](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge) 
  ![Followers](https://img.shields.io/github/followers/Sayansree?style=plastic)
  ![Stars](https://img.shields.io/github/stars/Sayansree?style=plastic)
