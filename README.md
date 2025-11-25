@@ -1,8 +1,8 @@
-<img align="left" alt="Sayansree" width="200px" src="https://github.com/Sayansree/Sayansree/blob/main/img/sayansree.jpeg?raw=true" />
+<img align="left" alt="Sayansree" width="200px" src="https://github.com/Sayansree/Sayansree/blob/main/img/sayansree.jpg?raw=true" />
  <img src="https://github.com/Sayansree/Sayansree/blob/main/img/life_balance.gif?raw=true" alt="side Image" align="right" width="300" height="auto" />
 
 <!-- ### Hey there, check out my portfolio : [sayansreeparia.co](https://sayansreeparia.co)       -->
- ![visitor](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge) 
+<!-- ![visitor](https://visitor-badge.glitch.me/badge?page_id=Sayansree.visitor-badge) -->
  ![Followers](https://img.shields.io/github/followers/Sayansree?style=plastic)
  ![Stars](https://img.shields.io/github/stars/Sayansree?style=plastic)
 
@@ -119,11 +119,11 @@ I'm Sayansree Paria , Computer Science Engineering undergraduate Sophomore at NI
 [![SQL Injection](https://img.shields.io/badge/-💉%20SQL%20Injection-000?)](https://github.com/adamalston/SQL-Injection)
 [![Spectre & Meltdown](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000?)](https://github.com/adamalston/Meltdown-Spectre)
 [![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](https://github.com/adamalston/Network-Tools)
--->
+
 
 ![Sayansree's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sayansree&theme=react-dark&hide_border=true&area=true)
 <br> 
 <img src="https://github-readme-stats.vercel.app/api?username=Sayansree&show_icons=true&count_private=true&theme=dark&include_all_commits=true">
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayansree&theme=onedark)](https://github.com/Sayansree/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayansree&theme=onedark)](https://github.com/Sayansree/github-readme-stats)
 -->
